@@ -9,7 +9,6 @@ Hacktoberfest is a program by Digital Ocean and Github, where you can easily win
 ## Steps to follow :scroll:
 
 ### 1. Register for Hacktoberfest
-You can register from [here](https://hacktoberfest.digitalocean.com).
 
 ### 2. Fork it :fork_and_knife:
 
